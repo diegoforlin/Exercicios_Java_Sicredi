@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercicio09Main {
 
-    public static void main (String arg[] ) {
+    public static void main (String args[] ) {
         int i,count;
         System.out.print("Entre um valor de número natural (começando do 0): ");
         Scanner sc= new Scanner(System.in);
